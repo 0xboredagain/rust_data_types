@@ -10,6 +10,7 @@ fn main() {
 
     last_name = "baz";
 
+    println!("population: {population}");
     println!("hi {} {} of {} years of age", first_name, last_name, age)
 }
 
